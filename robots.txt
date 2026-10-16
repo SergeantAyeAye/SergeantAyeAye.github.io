@@ -1,0 +1,10 @@
+# NOWHERE
+# ALL BOTS OUT! THIS MEANS YOU, GOOGLE!
+# VIOLATORS WILL BE JUDGED BY AYE AYE!!!
+# =^ω^=
+
+User-agent: yacybot
+Allow: /
+
+User-agent: *
+Disallow: /
